@@ -1,0 +1,7 @@
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/install/strip.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/install.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/list_install_components.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/rebuild_cache.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/edit_cache.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/install/local.dir
+/home/zadock/projects/bubble_sort_sfml/build/CMakeFiles/bubble_sort_sfml.dir
